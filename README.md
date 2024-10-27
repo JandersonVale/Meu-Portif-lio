@@ -1,4 +1,4 @@
-# 👨‍💻 Portfólio de Janderson Vale
+# 👨‍💻 Janderson Vale
 
 Bem-vindo ao meu portfólio! Sou apaixonado por tecnologia e informática. Atualmente, sou Técnico de TI e estudante de Análise e Desenvolvimento de Sistemas. Possuo certificações em várias linguagens e tecnologias, incluindo HTML, CSS, JavaScript, C#, Python, Banco de Dados, Redes e Java. 🚀
 
